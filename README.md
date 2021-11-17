@@ -1,2 +1,1 @@
-# MoneyUp
-돈을 많이 벌자
+박대현 - https://github.com/eodhs0/forMoney
