@@ -51,8 +51,7 @@ void solve(vector<vector<pair<int, int>>>& v) {
 			}
 		}
 	}
-	for (auto e : dist) cout << e << " ";
-	//cout << *(dist.end() - 1);
+	cout << *(dist.end() - 1);
 }
 
 bool is_prime(int num) {
