@@ -1,5 +1,6 @@
 // https://www.acmicpc.net/problem/16948
 
+
 #include <iostream>
 #include <vector>
 #include <climits>
